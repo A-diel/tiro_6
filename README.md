@@ -1,1 +1,1 @@
-# tiro_6
+# Solución del proyecto 33
